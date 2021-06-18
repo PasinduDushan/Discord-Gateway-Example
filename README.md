@@ -33,7 +33,7 @@ After the above responce you will get bunch of more responces like ```READY, GUI
 
 ## More details
 
-This is the base knowledge that you should have to interact with discord Gateway and discord API. This process is the actual thing happening inside packages like ```discord.js``` under the hood. Connecting to the discord gateway is really easy but requesting is kind of complex. You can learn how to send requests to discord gateway and receieve requests from it. This package contains how you can send a command to the discord gateway and receieve it and POST it to discord chat. Also because this code written in the latest version of discord API so you can also learn how actually slash commands make and send replies to it.
+This is the base knowledge that you should have to interact with discord Gateway and discord API. This process is the actual thing happening inside packages like ```discord.js``` under the hood. Connecting to the discord gateway is really easy but requesting is kind of complex. You can learn how to send requests to discord gateway and receive requests from it. This package contains how you can send a command to the discord gateway and receieve it and POST it to discord chat. Also because this code written in the latest version of discord API so you can also learn how actually slash commands make and send replies to it.
 
 This is basically a DISCORD BOT made without any packages like ```discord.js```, Made just using discord gateway and discord API.
 

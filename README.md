@@ -15,7 +15,7 @@ git clone https://github.com/PasinduDushan/Discord-Gateway-Example
 3. Open up your terminal, Go to file directory and do ```npm i```.
 4. Do ```npm start``` in the terminal.
 
-After you do the ```npm start``` you should be connect to the discord gateway. You have to get a responce like this when you connect to the gateway.
+After you do the ```npm start``` you should be connected to the discord gateway. You have to get a responce like this when you connect to the gateway.
 
 ```bash
 {

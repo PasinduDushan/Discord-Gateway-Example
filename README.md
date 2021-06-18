@@ -50,4 +50,4 @@ If you have any questions about this code or if you want support for running you
 2. Run `npm ci`
 3. Code your magic
 4. Run `npm test` to run ESLint and ensure any JSDoc changes are valid
-5. [Submit a pull request](https://github.com/PasinduDushan/Discord-Gateway-Examples/compare)
+5. [Submit a pull request](https://github.com/PasinduDushan/Discord-Gateway-Example/compare)

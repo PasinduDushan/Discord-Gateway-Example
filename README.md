@@ -42,7 +42,7 @@ This is basically a DISCORD BOT made without any packages like ```discord.js```,
 Discord - CrazyBotBoy#5694 <br>
 Github - [PasinduDushan](https://github.com/PasinduDushan)
 
-If you have any questions about this package or if you want support for running your own instance, I'll be really happy to help you. You can contact me via Discord at any time.
+If you have any questions about this code or if you want support for running your own instance, I'll be really happy to help you. You can contact me via Discord at any time.
 
 ## Contributing
 

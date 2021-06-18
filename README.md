@@ -1,9 +1,6 @@
 # Discord Gateway Example
 > You can connect with discord gateway and make requests to it using this code. This code contains most basic structures that you can use.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-
 This code use latest version of discord Gateway (v9) and latest version of discord API (v9). This code can be updated anytime.
 
 ![](https://thetechyinfo.com/wp-content/uploads/2021/05/How-to-Fix-Discord-not-Detecting-Mic-696x392.jpg)

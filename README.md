@@ -12,10 +12,10 @@ This code use latest version of discord Gateway (v9) and latest version of disco
 git clone https://github.com/PasinduDushan/Discord-Gateway-Example
 ```
 2. Add your bot TOKEN inside the ```.env``` file.
-3. Open up your terminal, Go to file directory and do ```npm i```.
-4. Do ```npm start``` in the terminal.
+3. Open up your terminal, Go to file directory and type ```npm i```.
+4. Type ```npm start``` in the terminal.
 
-After you do the ```npm start``` you should be connected to the discord gateway. You have to get a responce like this when you connect to the gateway.
+After you enter the ```npm start``` command, you should be connected to the discord gateway. You have to get a responce like this when you connect to the gateway.
 
 ```bash
 {

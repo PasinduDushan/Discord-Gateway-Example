@@ -1,6 +1,6 @@
 require('dotenv').config()
 const WebSocket = require('ws')
-const ws = new WebSocket('wss://gateway.discord.gg/?v=9&encoding=json')
+const ws = new WebSocket('wss://gateway.discord.gg/?v=10&encoding=json')
 const fetch = require('node-fetch')
 let interval = 0;
 
@@ -9,7 +9,7 @@ payload = {
     op: 2,
     d: {
         token: token,
-        intents: 513,
+        intents: 131071,
         properties: {
             $os: 'linux',
             $browser: 'chrome',
@@ -212,6 +212,6 @@ ws.on('message', function incoming(data) {
 
 const heartbeat = (ms) => {
     return setInterval(() => {
-        ws.send(JSON.stringify({op: 2, d: null}))
+        ws.send(JSON.stringify({op: 1, d: null}))
     }, ms)
 }

@@ -1,3 +1,5 @@
+# This code has been archieved
+
 # Discord Gateway Example
 > You can connect with discord gateway and make requests to it using this code. This code contains most basic structures that you can use.
 
